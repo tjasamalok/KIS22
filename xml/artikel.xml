@@ -1,0 +1,35 @@
+<root>
+<artikel>
+    <idArtikla> 100 </idArtikla>
+    <naziv> Testenine </naziv>
+    <cena> 2 </cena>
+    <koda> 012345 </koda>
+    <proizvajalec> 1 </proizvajalec>
+    <drzavaPorekla> Slovenija </drzavaPorekla>
+    <opis> Polnozrnate testenine </opis>
+    <energijskaVrednost> 524KJ </energijskaVrednost>
+    <kolicina> 1000g </kolicina>
+</artikel>
+<artikel>
+    <idArtikla> 100 </idArtikla>
+    <naziv> Testenine </naziv>
+    <cena> 10 </cena>
+    <koda> 012345 </koda>
+    <proizvajalec> 1 </proizvajalec>
+    <drzavaPorekla> Slovenija </drzavaPorekla>
+    <opis> Polnozrnate testenine </opis>
+    <energijskaVrednost> 524KJ </energijskaVrednost>
+    <kolicina> 1000g </kolicina>
+</artikel>
+<artikel>
+    <idArtikla> 100 </idArtikla>
+    <naziv> Testenine </naziv>
+    <cena> 100 </cena>
+    <koda> 012345 </koda>
+    <proizvajalec> 1 </proizvajalec>
+    <drzavaPorekla> Slovenija </drzavaPorekla>
+    <opis> Polnozrnate testenine </opis>
+    <energijskaVrednost> 524KJ </energijskaVrednost>
+    <kolicina> 1000g </kolicina>
+</artikel>
+</root>

@@ -1,0 +1,23 @@
+<proizvajalec>
+    <idProizvajalca> 1 </idProizvajalca>
+    <dolgiNaziv> Mlinotest d.o.o. </dolgiNaziv>
+    <naziv> Mlinotest </naziv>
+    <direktor> 8 </direktor>
+    <davcnaStevilka> 123456789 </davcnaStevilka>
+    <maticnaStevilka> 123456789 </maticnaStevilka>
+    <trr> SI56 1234567890 </trr>
+    <nazivBanke> NKBM </nazivBanke>
+    <datumUstanovitve> 
+        <dan> 1 </dan>
+        <mesec> 1 </mesec>
+        <leto> 2010 </leto>
+    </datumUstanovitve>
+    <naslovSedeza>
+        <ulica> Ulica FERI </ulica>
+        <hisnaStevilka> 1 </hisnaStevilka>
+        <posta> 9000 </posta>
+        <kraj> Murska Sobota </kraj>
+        <drzava> Slovenija </drzava>
+    </naslovSedeza>
+    <stZaposlenih> 10 </stZaposlenih>
+</proizvajalec>

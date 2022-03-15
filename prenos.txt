@@ -1,0 +1,1 @@
+[{"idArtikla":"100","naziv":"Testenine","cena":"100","koda":"012345","proizvajalec":"1","drzavaPorekla":"Slovenija","opis":"Polnozrnate testenine","energijskaVrednost":"524KJ","kolicina":"1000g"}]

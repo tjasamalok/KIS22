@@ -1,0 +1,22 @@
+<direktor>
+    <idDirektorja> 8 </idDirektorja>
+    <naziv> Mr. </naziv>
+    <ime> Jože </ime>
+    <priimek> Novak </priimek>
+    <naslov>
+        <ulica> Ulica ITK </ulica>
+        <hisnaStevilka> 1 </hisnaStevilka>
+        <posta> 9000 </posta>
+        <kraj> Murska Sobota </kraj>
+        <drzava> Slovenija </drzava>
+    </naslov>
+    <emso>123456789</emso>
+    <email> email@email.com </email>
+    <telStevilka> 070777222 </telStevilka>
+    <fax> fax </fax>
+    <datumRojstva>
+        <dan> 1 </dan>
+        <mesec> 1 </mesec>
+        <leto> 1990 </leto>
+    </datumRojstva>
+</direktor>
